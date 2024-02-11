@@ -13,10 +13,6 @@
       "email": "ahmedzreqat1@gmail.com"
     }
   ],
-  "support": {
-    "issues": "https://github.com/wshurafa/laravel-payfort/issues",
-    "source": "https://github.com/wshurafa/laravel-payfort"
-  },
   "type": "library",
   "license": "MIT",
   "require": {
